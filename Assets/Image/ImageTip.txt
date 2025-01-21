@@ -1,0 +1,2 @@
+Image 컴포넌트에 image를 삽입할 수 없으면
+해당 image의 textureType을 Sprite (2D and UI)로 변경해줘야함
