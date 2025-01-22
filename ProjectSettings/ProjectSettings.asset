@@ -834,12 +834,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 0114af51-93ac-4f1c-884e-a3ee53aed2ce
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Lesson
   organizationId: chang_jun
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
